@@ -1,0 +1,1 @@
+conda activate C:\Users\kartk\Desktop\Codezzzzzzz\ML-END-TO-END-PRIOJECT\venv
